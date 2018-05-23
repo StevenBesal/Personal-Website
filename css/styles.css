@@ -1,0 +1,37 @@
+.navbar{
+  border-radius: 0;
+  background-color: #471354;
+  margin:0;
+}
+
+.jumbotron{
+
+}
+
+.btnjum{
+  background-color: #471354;
+}
+
+.Maintext{
+  /* display: flex; */
+}
+
+.profilepic{
+  float: right;
+  margin: 5px;
+}
+
+.text-left{
+  margin: 5px;
+}
+
+.row{
+  border: #471354 2px solid;
+  /* display: inline-block; */
+  /* margin: 5px; */
+  padding: 8px;
+}
+
+  .split-text{
+    columns: 2;
+  }
